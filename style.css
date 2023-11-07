@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.red {
+  background: red;
+}
+
+div {
+  text-align: center;
+}
+
+h1 {
+  padding-bottom: 27px;
+  margin-top: 30px;
+  border-bottom: 2px solid #ccc;
+}
+
+span {
+  background-color: aqua;
+}
+
+
+
+#question {
+  font-size: 40px;
+  font-weight: bold;
+  border-bottom: 10px;
+  padding: 40px;
+  margin-top: 70px;
+}
+
+#time,
+#miss-type {
+  margin-top: 10px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#input {
+  text-align: center;
+  font-size: 30px;
+  opacity: 0.6;
+}
+
+#encouragment {
+  margin-top: 70px;
+  color: red;
+  font-size: 30px;
+}
+
+.hide {
+  display: none;
+}
+
+
+button {
+  margin-top: 80px;
+  width: 150px;
+  height: 60px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+  color: white;
+  background: rgb(0, 166, 255);
+  border: none;
+  border-radius: 40px;
+}
+
+button:hover {
+  opacity: .6;
+}
+
+.big {
+  font-size: 80px;
+}
